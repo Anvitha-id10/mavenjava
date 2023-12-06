@@ -6,7 +6,7 @@ package com.kimt.maven_java;
  */
 public class App 
 {
-    public static void main( String[] args )sd
+    public static void main( String[] args )
     {
         System.out.println( "Hello World!" );
     }
